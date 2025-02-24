@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 
-- 🌱 **Currently Learning**: All things  **Backend** (Go, Python, Java), **Cloud** (AWS/GCP), **DevOps** tools (Docker, Kubernetes). 
-- 🤔 **Looking For Help With**: Best practices in microservices, distributed systems, and CI/CD pipelines.  
+- 🌱 **Currently Learning**:  **Crafting Interpreters** ,**RAG** , **Competetive Programming**.
+- 🤔 **Looking For Help With**: Best practices to build AI Agents and open source contribution projects.  
 - 💬 **Ask Me About**: My journey, challenges in enterprise application development, in domains like finance, banking, IOT, healthcare, ecommerce, or any interesting coding puzzlers!  
 - ⚡ **Fun Fact**:
     - I prefer tabs over spaces.
