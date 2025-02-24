@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 
-- 🌱 **Currently Learning**:  **Crafting Interpreters** ,**RAG** , **Competetive Programming**.
+- 🌱 **Currently Learning**:  **Crafting Interpreters** ,**RAG** , **Comptetive Programming**.
 - 🤔 **Looking For Help With**: Best practices to build AI Agents and open source contribution projects.  
 - 💬 **Ask Me About**: My journey, challenges in enterprise application development, in domains like finance, banking, IOT, healthcare, ecommerce, or any interesting coding puzzlers!  
 - ⚡ **Fun Fact**:
